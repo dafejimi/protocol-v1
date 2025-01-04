@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "@ethereum-attestation-service/eas-contracts": "^1.7.1",
+    "@ethereum-attestation-service/eas-sdk": "^2.7.0",
+    "@kleros/kleros-v2-contracts": "^0.4.1",
+    "kleros-interaction-2": "^0.1.3"
+  }
+}
